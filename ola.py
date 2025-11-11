@@ -6,3 +6,5 @@ print(f'este es el hueso {"prueba.exe"} ')
 # algunos cambios aca
 
 # algunos cambiso aqui
+
+# mas cambios para probar mas funciones
